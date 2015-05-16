@@ -11,10 +11,12 @@ permalink: scikit-learn
 meta_description: Introduction of scikit-learn package
 browser_title: scikit-learn - Machine Learning in Python
 ---
-[scikit-learn - Machine Learning in Python][sklearn]
-----------------------------------------------------------
 
-http://scikit-learn.org/stable/
+scikit-learn
+----------------------------------------------------------
+Machine Learning in Python
+
+[The stable version of scikit-learn][sklearn]
 
 + Simple and efficient tools for data mining and data analysis
 + Accessible to everybody, and reusable in various contexts
