@@ -34,14 +34,18 @@ Machine Learning in Python
 
 ### Doc
 
-[http://scikit-learn.org/stable/documentation.html][sklearndoc]
+[Online Documents][sklearndoc]
 
 Learning scikit-learn: Machine Learning in Python
 -----------------------------------------------------------------------
-[The book in PACKT Publishing][thebook] by Raúl Garreta, Guillermo Moncecchi
+
+[The book in PACKT Publishing][thebook]
+by Raúl Garreta, Guillermo Moncecchi
 November 2013
 
-### [IPython source code][thebookcode]
+### IPython source code
+
+[Online Source Code][thebookcode]
 
 + Chapter 1 - A Gentle Introduction to Machine Learning
 + Chapter 2 - Supervised Learning - Image Recognition with Support Vector Machines
