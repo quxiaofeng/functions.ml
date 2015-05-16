@@ -36,5 +36,24 @@ Machine Learning in Python
 
 [http://scikit-learn.org/stable/documentation.html][sklearndoc]
 
+Learning scikit-learn: Machine Learning in Python
+-----------------------------------------------------------------------
+[The book in PACKT Publishing][thebook] by Raúl Garreta, Guillermo Moncecchi
+November 2013
+
+### [IPython source code][thebookcode]
+
++ Chapter 1 - A Gentle Introduction to Machine Learning
++ Chapter 2 - Supervised Learning - Image Recognition with Support Vector Machines
++ Chapter 2 - Supervised Learning - Regression
++ Chapter 2 - Supervised Learning - Text Classification with Naive Bayes
++ Chapter 2 - Supervised learning - Explaining Titanic Hypothesis with Decision Trees
++ Chapter 3 - Unsupervised Learning - Clustering Handwritten Digits
++ Chapter 3 - Unsupervised Learning - Principal Component Analysis
++ Chapter 4 - Advanced Features - Feature Engineering and Selection
++ Chapter 4 - Advanced Features - Model Selection
+
 [sklearn](http://scikit-learn.org/stable/)
 [sklearndoc](http://scikit-learn.org/stable/documentation.html)
+[thebook](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
+[thebookcode](http://nbviewer.ipython.org/github/gmonce/scikit-learn-book/tree/master/)
