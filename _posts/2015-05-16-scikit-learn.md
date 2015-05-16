@@ -5,7 +5,7 @@ date:   2015-05-16 20:15:43
 categories:
 - python
 - package
-banner_video: '<iframe width="560" height="315" src="//www.youtube.com/watch?v=HjAB45qsx_c" frameborder="0" allowfullscreen></iframe>'
+banner_video: '<iframe width="560" height="315" src="//www.youtube.com/embed/HjAB45qsx_c" frameborder="0" allowfullscreen></iframe>'
 comments: true
 permalink: scikit-learn
 meta_description: Introduction of scikit-learn package
