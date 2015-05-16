@@ -12,9 +12,9 @@ meta_description: Introduction of scikit-learn package
 browser_title: scikit-learn - Machine Learning in Python
 ---
 
-scikit-learn
-----------------------------------------------------------
-Machine Learning in Python
+The scikit-learn is a machine learning package in Python.
+
+___
 
 [The stable version of scikit-learn][sklearn]
 
