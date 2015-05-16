@@ -1,6 +1,6 @@
 # Site settings
 title: Functions
-tagline: ''
+tagline:
 email: xiaofeng.qu.hk@ieee.org
 description: > # this means to ignore newlines until "baseurl:"
   Languages, Packages, Toolboxes, and Functions
