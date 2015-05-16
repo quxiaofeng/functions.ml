@@ -57,7 +57,7 @@ November 2013
 + Chapter 4 - Advanced Features - Feature Engineering and Selection
 + Chapter 4 - Advanced Features - Model Selection
 
-[sklearn](http://scikit-learn.org/stable/)
-[sklearndoc](http://scikit-learn.org/stable/documentation.html)
-[thebook](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
-[thebookcode](http://nbviewer.ipython.org/github/gmonce/scikit-learn-book/tree/master/)
+[sklearn]:http://scikit-learn.org/stable/
+[sklearndoc]:http://scikit-learn.org/stable/documentation.html
+[thebook]:https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
+[thebookcode]:http://nbviewer.ipython.org/github/gmonce/scikit-learn-book/tree/master/
