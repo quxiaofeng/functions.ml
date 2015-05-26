@@ -4,8 +4,8 @@ tagline:
 email: xiaofeng.qu.hk@ieee.org
 description: > # this means to ignore newlines until "baseurl:"
   Languages, Packages, Toolboxes, and Functions for Machine Learning
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.functions.ml" # the base hostname & protocol for your site
+baseurl: /functions.ml # the subpath of your site, e.g. /blog
+url: http://www.quxiaofeng.me # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 sidelogourl: /assets/images/logo-big.png # Site logo
 author: "QU Xiaofeng"
